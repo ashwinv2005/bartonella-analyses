@@ -1,2 +1,2 @@
-# bartonella_analyses
+# bartonella-analyses
 Code to plot prevalence of Bartonella
