@@ -1,0 +1,407 @@
+ind_id,species,grid,habitat,effort,year,area,day_1,day_2,day_3,day_4
+KDM16/001,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,0
+KDM16/002,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/003,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/004,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,1
+KDM16/005,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,1
+KDM16/006,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,1,1,0,0
+KDM16/007,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,0
+KDM16/008,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/009,Mus cf fernandoni,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/010,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/011,Crocidura horsfieldii,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/012,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,1
+KDM16/014,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,1
+KDM16/015,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/016,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/017,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/018,Mus cf famulus,1/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/019,Crocidura horsfieldii,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/020,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/021,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,1
+KDM16/024,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/027,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/029,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/030,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/032,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/033,Crocidura horsfieldii,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/034,Golunda ellioti,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/035,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/036,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/042,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/043,Mus cf terricolor,1/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/044,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,1,0,0,NA
+KDM16/045,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,1,0,1,NA
+KDM16/046,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,1,0,0,NA
+KDM16/047,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,1,1,1,NA
+KDM16/048,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,1,1,0,NA
+KDM16/052,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,0,0,1,NA
+KDM16/053,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,0,0,1,NA
+KDM16/055,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/056,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,1,0
+KDM16/057,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,1
+KDM16/058,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,1,0
+KDM16/059,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,0,0
+KDM16/060,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,0
+KDM16/061,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,0
+KDM16/062,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,1,1
+KDM16/063,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/064,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,1,1
+KDM16/065,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,0
+KDM16/066,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,0,0
+KDM16/067,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,1
+KDM16/068,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/069,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/070,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,1,0
+KDM16/071,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,1,1
+KDM16/072,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,1,1,1,0
+KDM16/073,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/074,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,1,0,0,0
+KDM16/077,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/078,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/079,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/081,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,1
+KDM16/082,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/083,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/084,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/085,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/086,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/088,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/089,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/093,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/094,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,0,0
+KDM16/095,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,1,1,0
+KDM16/098,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/100,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/103,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,1
+KDM16/104,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/105,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/111,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/112,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/113,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/114,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/115,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/116,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/117,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/118,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,0
+KDM16/120,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,1
+KDM16/121,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,1
+KDM16/122,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,1,1
+KDM16/131,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/133,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/134,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/135,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/136,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/137,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/139,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/140,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/141,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/142,Mus cf terricolor,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/143,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/144,Mus cf famulus,3/GRSLND,Grassland,Grid,2016,Kadumane,0,0,0,1
+KDM16/151,Mus cf fernandoni,4/ACOFE,Plantation,Grid,2016,Kadumane,1,0,1,NA
+KDM16/152,Mus cf fernandoni,4/ACOFE,Plantation,Grid,2016,Kadumane,0,1,0,NA
+KDM16/153,Rattus satarae,4/ACOFE,Plantation,Grid,2016,Kadumane,0,1,1,NA
+KDM16/155,Rattus satarae,4/ACOFE,Plantation,Grid,2016,Kadumane,0,0,1,NA
+KDM16/157,Mus cf famulus,4/ACOFE,Plantation,Grid,2016,Kadumane,0,0,1,NA
+KDM16/158,Rattus satarae,4/ACOFE,Plantation,Grid,2016,Kadumane,0,0,1,NA
+KDM16/159,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,1,0,1,0
+KDM16/160,Rattus satarae,5/FOREST,Forest,Grid,2016,Kadumane,1,0,1,0
+KDM16/161,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,1,1,1
+KDM16/163,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/164,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/165,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/167,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/170,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,0,0,1
+KDM16/171,Mus cf fernandoni,5/FOREST,Forest,Grid,2016,Kadumane,0,0,0,1
+KDM16/172,Mus cf fernandoni,6/FOREST,Forest,Grid,2016,Kadumane,1,0,1,1
+KDM16/173,Mus cf fernandoni,6/FOREST,Forest,Grid,2016,Kadumane,1,1,1,1
+KDM16/175,Rattus satarae,6/FOREST,Forest,Grid,2016,Kadumane,0,1,0,0
+KDM16/176,Rattus satarae,6/FOREST,Forest,Grid,2016,Kadumane,0,1,0,0
+KDM16/177,Rattus satarae,6/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/178,Rattus satarae,6/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/181,Mus cf fernandoni,6/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/182,Rattus satarae,6/FOREST,Forest,Grid,2016,Kadumane,0,0,0,1
+KDM16/183,Mus cf fernandoni,6/FOREST,Forest,Grid,2016,Kadumane,0,0,0,1
+KDM16/186,Vandeleuria nilagirica,2/ACADM,Plantation,Targetted,2016,Kadumane,0,1,1,NA
+KDM16/187,Rattus satarae,7/FOREST,Forest,Grid,2016,Kadumane,1,1,0,0
+KDM16/188,Rattus satarae,2/ACADM,Plantation,Grid,2016,Kadumane,0,1,0,NA
+KDM16/189,Mus cf fernandoni,7/FOREST,Forest,Grid,2016,Kadumane,0,1,0,0
+KDM16/190,Rattus satarae,7/FOREST,Forest,Grid,2016,Kadumane,0,1,0,1
+KDM16/192,Rattus satarae,7/FOREST,Forest,Grid,2016,Kadumane,0,0,1,0
+KDM16/193,Rattus satarae,7/FOREST,Forest,Grid,2016,Kadumane,0,0,0,1
+KDM16/195,Mus cf famulus,8/TEA,Tea,Grid,2016,Kadumane,1,0,1,0
+KDM16/196,Mus cf famulus,8/TEA,Tea,Grid,2016,Kadumane,0,1,1,0
+KDM16/197,Mus cf famulus,8/TEA,Tea,Grid,2016,Kadumane,0,1,0,0
+KDM16/200,Rattus rattus,9/BUILTUP,Built-up,Grid,2016,Kadumane,1,0,0,0
+KDM16/201,Rattus rattus,9/BUILTUP,Built-up,Grid,2016,Kadumane,1,0,0,0
+KDM16/202,Rattus rattus,9/BUILTUP,Built-up,Grid,2016,Kadumane,0,1,0,0
+KDM16/203,Rattus rattus,9/BUILTUP,Built-up,Grid,2016,Kadumane,0,0,1,0
+KDM17/001,Mus cf terricolor,1/GRSLND,Grassland,Grid,2017,Kadumane,1,1,1,1
+KDM17/003,Crocidura horsfieldii,1/GRSLND,Grassland,Grid,2017,Kadumane,0,1,0,0
+KDM17/004,Mus cf terricolor,1/GRSLND,Grassland,Grid,2017,Kadumane,0,0,1,0
+KDM17/005,Mus cf famulus,1/GRSLND,Grassland,Grid,2017,Kadumane,0,0,1,0
+KDM17/006,Mus cf terricolor,1/GRSLND,Grassland,Grid,2017,Kadumane,0,0,1,0
+KDM17/008,Mus cf terricolor,1/GRSLND,Grassland,Grid,2017,Kadumane,0,0,0,1
+KDM17/009,Mus cf terricolor,1/GRSLND,Grassland,Grid,2017,Kadumane,0,0,0,1
+KDM17/011,Mus cf famulus,2/GRSLND,Grassland,Grid,2017,Kadumane,1,1,0,1
+KDM17/012,Golunda ellioti,2/GRSLND,Grassland,Grid,2017,Kadumane,1,0,0,0
+KDM17/013,Golunda ellioti,2/GRSLND,Grassland,Grid,2017,Kadumane,0,1,0,0
+KDM17/015,Mus cf fernandoni,2/GRSLND,Grassland,Grid,2017,Kadumane,0,1,1,0
+KDM17/018,Rattus satarae,3/FOREST,Forest,Grid,2017,Kadumane,1,0,0,0
+KDM17/019,Rattus satarae,3/FOREST,Forest,Grid,2017,Kadumane,1,1,0,0
+KDM17/020,Mus cf fernandoni,3/FOREST,Forest,Grid,2017,Kadumane,1,0,0,0
+KDM17/022,Mus cf fernandoni,3/FOREST,Forest,Grid,2017,Kadumane,0,1,1,1
+KDM17/023,Mus cf fernandoni,3/FOREST,Forest,Grid,2017,Kadumane,0,1,1,1
+KDM17/024,Mus cf fernandoni,3/FOREST,Forest,Grid,2017,Kadumane,0,1,1,0
+KDM17/025,Mus cf fernandoni,3/FOREST,Forest,Grid,2017,Kadumane,0,0,1,0
+KDM17/031,Rattus satarae,4/FOREST,Forest,Grid,2017,Kadumane,1,1,0,0
+KDM17/032,Rattus satarae,4/FOREST,Forest,Grid,2017,Kadumane,1,0,0,0
+KDM17/033,Rattus satarae,4/FOREST,Forest,Grid,2017,Kadumane,1,0,0,0
+KDM17/035,Rattus satarae,4/FOREST,Forest,Grid,2017,Kadumane,0,0,1,0
+KDM17/036,Rattus satarae,4/FOREST,Forest,Grid,2017,Kadumane,0,0,1,1
+KDM17/037,Mus cf famulus,4/FOREST,Forest,Grid,2017,Kadumane,0,0,0,1
+KDM17/038,Rattus satarae,4/FOREST,Forest,Grid,2017,Kadumane,0,0,0,1
+KDM17/040,Funambulus tristriatus,4/FOREST,Forest,Grid,2017,Kadumane,0,0,0,1
+KDM17/041,Mus cf fernandoni,5/FOREST,Forest,Grid,2017,Kadumane,1,1,0,1
+KDM17/042,Mus cf fernandoni,5/FOREST,Forest,Grid,2017,Kadumane,0,1,0,0
+KDM17/043,Mus cf fernandoni,5/FOREST,Forest,Grid,2017,Kadumane,0,1,1,1
+KDM17/046,Mus cf fernandoni,5/FOREST,Forest,Grid,2017,Kadumane,0,0,1,0
+KDM17/047,Mus cf fernandoni,5/FOREST,Forest,Grid,2017,Kadumane,0,0,0,1
+KDM17/048,Mus cf fernandoni,5/FOREST,Forest,Grid,2017,Kadumane,0,0,0,1
+KDM17/051,Rattus satarae,6/ACADM,Plantation,Grid,2017,Kadumane,1,0,1,NA
+KDM17/053,Rattus satarae,6/ACADM,Plantation,Grid,2017,Kadumane,0,0,1,NA
+KDM17/054,Rattus satarae,6/ACADM,Plantation,Grid,2017,Kadumane,0,0,1,NA
+KDM17/055,Rattus satarae,6/ACADM,Plantation,Grid,2017,Kadumane,0,0,1,NA
+KDM17/056,Rattus satarae,6/ACADM,Plantation,Grid,2017,Kadumane,0,0,1,NA
+KDM17/057,Platacanthomys lasiurus,6/ACADM,Plantation,Targetted,2017,Kadumane,0,1,0,NA
+KDM17/058,Platacanthomys lasiurus,6/ACADM,Plantation,Targetted,2017,Kadumane,0,0,1,NA
+KDM17/059,Mus cf fernandoni,8/ACOFE,Plantation,Grid,2017,Kadumane,0,1,0,NA
+KDM17/060,Mus cf famulus,8/ACOFE,Plantation,Grid,2017,Kadumane,0,1,0,NA
+KDM17/061,Mus cf fernandoni,8/ACOFE,Plantation,Grid,2017,Kadumane,0,0,1,NA
+KDM17/062,Suncus niger,9/BUILTUP,Built-up,Grid,2017,Kadumane,0,1,0,0
+KDM17/063,Mus cf famulus,9/BUILTUP,Built-up,Grid,2017,Kadumane,0,0,1,0
+KDM17/064,Rattus rattus,9/BUILTUP,Built-up,Grid,2017,Kadumane,0,0,1,0
+KDM17/065,Rattus rattus,9/BUILTUP,Built-up,Grid,2017,Kadumane,0,0,1,0
+KDM18/001,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/002,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/003,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/004,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/005,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/006,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/007,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/008,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/009,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/010,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/011,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/012,Mus cf fernandoni,1/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/013,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,0,0,0,1
+KDM18/014,Rattus satarae,1/FOREST,Forest,Grid,2018,Kadumane,0,0,0,1
+KDM18/015,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/016,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/017,Mus cf fernandoni,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/018,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/019,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/020,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/021,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/022,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/023,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/024,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/025,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/026,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,0,0,0,1
+KDM18/027,Rattus satarae,2/FOREST,Forest,Grid,2018,Kadumane,0,0,0,1
+KDM18/028,Rattus satarae,3/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/029,Rattus satarae,3/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/030,Rattus satarae,3/FOREST,Forest,Grid,2018,Kadumane,1,0,0,0
+KDM18/031,Mus cf famulus,3/FOREST,Forest,Grid,2018,Kadumane,0,1,0,0
+KDM18/032,Rattus satarae,3/FOREST,Forest,Grid,2018,Kadumane,0,0,1,0
+KDM18/033,Platacanthomys lasiurus,3/FOREST,Forest,Grid,2018,Kadumane,0,0,1,0
+KDM18/034,Mus cf famulus,3/FOREST,Forest,Grid,2018,Kadumane,0,0,0,1
+KDM18/035,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/036,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/037,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/038,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/039,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/040,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/041,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/042,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/043,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/044,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/045,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/046,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/047,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/048,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/049,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/050,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/051,Rattus satarae,4/ACOFE,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/052,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/053,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/054,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/055,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/056,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/057,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/058,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/059,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/060,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/061,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/062,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,1,0,0,NA
+KDM18/063,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/064,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/065,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,1,0,NA
+KDM18/066,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/067,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/068,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/069,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/070,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/071,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/072,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/073,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/074,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/075,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/076,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/077,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/078,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/079,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/080,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/081,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/082,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/083,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/084,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/085,Mus cf terricolor,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/086,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/087,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/088,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/089,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/090,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/091,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/092,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/093,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/094,Mus cf terricolor,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/095,Mus cf terricolor,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/096,Mus cf terricolor,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/097,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/098,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/099,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/100,Mus cf fernandoni,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/101,Mus cf famulus,6/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/102,Mus cf fernandoni,7/GRSLND,Grassland,Grid,2018,Kadumane,1,0,0,0
+KDM18/103,Mus cf fernandoni,7/GRSLND,Grassland,Grid,2018,Kadumane,1,0,0,0
+KDM18/104,Mus cf fernandoni,7/GRSLND,Grassland,Grid,2018,Kadumane,1,0,0,0
+KDM18/105,Mus cf fernandoni,7/GRSLND,Grassland,Grid,2018,Kadumane,1,0,0,0
+KDM18/106,Mus cf fernandoni,7/GRSLND,Grassland,Grid,2018,Kadumane,1,0,0,0
+KDM18/107,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,1,0,0,0
+KDM18/108,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/109,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/110,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,0,1,0,0
+KDM18/111,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,1,0,0,0
+KDM18/112,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,1,0,0,0
+KDM18/113,Mus cf terricolor,7/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/114,Mus cf terricolor,7/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/115,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/116,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/117,Mus cf famulus,7/GRSLND,Grassland,Grid,2018,Kadumane,0,0,1,0
+KDM18/118,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,1,0,0
+KDM18/119,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,1,0,0
+KDM18/120,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,1,0,0
+KDM18/121,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,1,0,0
+KDM18/122,Mus cf fernandoni,7/GRSLND,Grassland,Grid,2018,Kadumane,0,0,0,1
+KDM18/123,Mus cf famulus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,1,0
+KDM18/124,Mus cf famulus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,1,0
+KDM18/125,Suncus niger,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,1,0
+KDM18/126,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/127,Mus cf famulus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,1,0
+KDM18/128,Mus cf famulus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,1,0
+KDM18/129,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/130,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,0,1
+KDM18/131,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,0,1
+KDM18/132,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,0,1
+KDM18/133,Suncus niger,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,0,1
+KDM18/134,Rattus satarae,5/ACADM,Plantation,Grid,2018,Kadumane,0,0,1,NA
+KDM18/135,Rattus rattus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,0,1
+KDM18/136,Mus cf famulus,8/BLTUP,Built-up,Grid,2018,Kadumane,0,0,0,1
+KDMK21/001,Rattus satarae,1/GRSLND,Grassland,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/002,Suncus niger,1/GRSLND,Grassland,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/003,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/004,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/005,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/006,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/007,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/008,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/009,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,1,1
+KDMK21/010,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,1,0
+KDMK21/011,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/012,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,1,0
+KDMK21/013,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/014,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/015,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/016,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/017,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/018,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/019,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/020,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/021,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/025,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/026,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/027,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/028,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/029,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/030,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/032,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/033,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/034,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/035,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/036,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/037,Mus cf terricolor,1/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/038,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,1,1,0,1
+KDMK21/039,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,1,1,1,1
+KDMK21/040,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,1,1,1,1
+KDMK21/042,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/043,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,0,1,1,1
+KDMK21/048,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,0,0,1,1
+KDMK21/050,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/052,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/053,Rattus satarae,2/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/058,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/059,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,1
+KDMK21/060,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/061,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/062,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/063,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/064,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/065,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/066,Mus cf famulus,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/067,Mus cf famulus,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/068,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/069,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/070,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/071,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/072,Mus cf fernandoni,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/073,Mus cf terricolor,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/074,Mus cf famulus,3/GRSLND,Grassland,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/076,Rattus satarae,4/FOREST,Forest,Grid,2021,Kudremukh,1,1,0,1
+KDMK21/077,Rattus satarae,4/FOREST,Forest,Grid,2021,Kudremukh,1,1,0,0
+KDMK21/078,Rattus satarae,4/FOREST,Forest,Grid,2021,Kudremukh,1,1,1,0
+KDMK21/082,Platacanthomys lasiurus,4/FOREST,Forest,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/083,Rattus satarae,4/FOREST,Forest,Grid,2021,Kudremukh,0,0,1,1
+KDMK21/084,Rattus satarae,4/FOREST,Forest,Grid,2021,Kudremukh,0,0,1,1
+KDMK21/086,Rattus satarae,4/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/090,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,1,1,1,1
+KDMK21/091,Suncus niger,5/FOREST,Forest,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/092,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,1,1,1,1
+KDMK21/093,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,1,1,1,0
+KDMK21/094,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,1,1,0,1
+KDMK21/095,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,0,1,1,0
+KDMK21/100,Suncus niger,5/FOREST,Forest,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/101,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,0,0,1,1
+KDMK21/102,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/107,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/108,Rattus satarae,5/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/110,Suncus niger,5/FOREST,Forest,Grid,2021,Kudremukh,0,0,0,1
+KDMK21/114,Suncus niger,6/BLTUP,Built-up,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/115,Suncus niger,6/BLTUP,Built-up,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/116,Rattus rattus,6/BLTUP,Built-up,Grid,2021,Kudremukh,1,0,0,0
+KDMK21/117,Funambulus tristriatus,6/BLTUP,Built-up,Targeted,2021,Kudremukh,0,1,0,0
+KDMK21/118,Rattus rattus,6/BLTUP,Built-up,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/119,Rattus rattus,6/BLTUP,Built-up,Grid,2021,Kudremukh,0,1,0,0
+KDMK21/120,Suncus niger,6/BLTUP,Built-up,Grid,2021,Kudremukh,0,0,1,0
+KDMK21/121,Rattus rattus,6/BLTUP,Built-up,Grid,2021,Kudremukh,0,0,1,0
