@@ -10,6 +10,15 @@ rod_mas = rod_mas %>% distinct(ind_id,species,habitat,year,site)
 a = read.csv("Screeningdata_combined.csv", fileEncoding="UTF-8-BOM")
 b = read.csv("max_abundance.csv")
 
+## appending missing species abundances to max abundance file
+
+b_add = data.frame(species = c("Rattus rattus","Rattus rattus","Mus cf famulus"),
+                   habitat = c("Built-up","Built-up","Built-up"),
+                   mean = c(10,4,5),
+                   site = c("Kadumane","Kudremukh","Kadumane"))
+
+b = rbind(b,b_add)
+
 
 rod_mas = left_join(rod_mas,a)
 rod_mas = left_join(rod_mas,b)
@@ -181,7 +190,7 @@ ggp1 = ggp +
                               "F1\n","F2\n","F3\n","F4\n","F5\n")) +
   theme(legend.position = "bottom")
 
-png('Fig. mites.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. mites.jpg', units="in", width=10, height=7, res=800)
 ggp1
 dev.off()
 
@@ -221,7 +230,7 @@ ggp1 = ggp +
                               "F1\n","F2\n","F3\n","F4\n","F5\n")) +
   theme(legend.position = "bottom")
 
-png('Fig. ticks.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. ticks.jpg', units="in", width=10, height=7, res=800)
 ggp1
 dev.off()
 
@@ -256,7 +265,7 @@ ggp1 = ggp +
                               "F1\n","F2\n","F3\n","F4\n","F5\n")) +
   theme(legend.position = "bottom")
 
-png('Fig. fleas.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. fleas.jpg', units="in", width=10, height=7, res=800)
 ggp1
 dev.off()
 
@@ -301,7 +310,7 @@ ggcom1 = ggcom +
   scale_y_continuous(breaks = c(0,0.25,0.5,0.75), limits = c(0,0.9)) +
   theme(legend.position = 'bottom')
 
-png('Fig. hostbart.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. hostbart.jpg', units="in", width=10, height=7, res=800)
 ggcom1
 dev.off()
 
@@ -322,13 +331,16 @@ bart$vectspecies = factor(bart$vectspecies,
 
 bart1 = bart %>% filter(prev>0) %>% distinct(vectspecies)
 
-bart2 = bart %>% filter(n>5)
-bart2[7,] = bart2[3,]
-bart2[8,] = bart2[4,]
-bart2$site[7:8] = "Kudremukh"
-bart2$prev[7:8] = 0
-bart2$cil[7:8] = NA
-bart2$cir[7:8] = NA
+bart2 = bart %>% filter(n>4)
+bart2[8,] = bart2[3,]
+bart2[9,] = bart2[4,]
+bart2[10,] = bart2[5,]
+bart2$site[8:9] = "Kudremukh"
+bart2$site[10] = "Kadumane"
+bart2$prev[8:10] = 0
+bart2$n[8:10] = 0
+bart2$cil[8:10] = NA
+bart2$cir[8:10] = NA
 
 ggcom = ggplot(bart2, aes(vectspecies, prev)) +
   geom_bar(aes(color = site, fill = site), stat="identity", width = NULL,
@@ -354,7 +366,7 @@ ggcom1 = ggcom +
   scale_y_continuous(breaks = c(0,0.25,0.5,0.75), limits = c(0,0.9)) +
   theme(legend.position = 'bottom')
 
-png('Fig. vectbart.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. vectbart.jpg', units="in", width=10, height=7, res=800)
 ggcom1
 dev.off()
 
@@ -396,7 +408,7 @@ ggcom1 = ggcom +
   scale_y_continuous(breaks = c(0,0.25,0.5,0.75), limits = c(0,0.9)) +
   theme(legend.position = 'bottom')
 
-png('Fig. bothbart.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. bothbart.jpg', units="in", width=10, height=7, res=800)
 ggcom1
 dev.off()
 
@@ -452,7 +464,7 @@ ggcom1 = ggcom +
   scale_y_continuous(breaks = c(0,0.25,0.5,0.75), limits = c(0,0.9)) +
   theme(legend.position = 'bottom')
 
-png('Fig. rick.jpg', units="in", width=10, height=7, res=800)
+jpeg('Fig. rick.jpg', units="in", width=10, height=7, res=800)
 ggcom1
 dev.off()
 
@@ -472,18 +484,19 @@ par_mas1821x[par_mas1821x$count_vec>0,]$count_vec = 1
 vec_dens = par_mas1821x %>%
   group_by(species, habitat, site) %>%
   summarise(count_vec = sum(count_vec)/n(), n = n()) %>% ungroup
-vec_dens_r = vec_dens %>% filter(n>5)
+vec_dens_r = vec_dens
 
 dat2 = left_join(rod_mas1821_r,vec_dens_r)
-dat2 = dat2 %>% filter(!is.na(bart_host))
-dat2[is.na(dat2$count_vec),]$count_vec = 0
+dat2 = dat2 %>% filter(n>3)
+dat2 = dat2 %>% filter(!is.na(bart_host),!is.na(count_rod))
+#dat2[is.na(dat2$count_vec),]$count_vec = 0
 
-fit = glm(bart_host ~ count_rod + count_vec, data = dat2, 
+fit = glm(bart_host ~ count_rod + site + count_vec, data = dat2, 
             family=binomial)
 summary(fit)
 
 dat3 = dat2 %>% 
-  group_by(count_vec) %>%
+  group_by(species,habitat,site,count_vec) %>%
   summarise(mean = sum(bart_host)/n(),
             cil = binconf(sum(bart_host),n())[2], cir = binconf(sum(bart_host),n())[3])
 
@@ -499,6 +512,11 @@ require(boot)
 newdata$pred = inv.logit(newdata$pred)
 newdata$cil = inv.logit(newdata$cil)
 newdata$cir = inv.logit(newdata$cir)
+
+# add a jitter
+
+dat3$count_vec[1] = 0.01
+dat3$mean[5] = 0.01
 
 ggp = ggplot(data = dat3) +
   geom_point(aes(x = count_vec, y = mean), size = 3) +
@@ -518,7 +536,7 @@ ggp1 = ggp +
   theme(text=element_text(family="Gill Sans MT")) +
   theme(legend.position = "bottom")
 
-png('Fig. main.jpg', units="in", width=10, height=7, res=1000)
+jpeg('Fig. main.jpg', units="in", width=10, height=7, res=1000)
 ggp1
 dev.off()
 
