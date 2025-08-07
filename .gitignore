@@ -3,7 +3,7 @@
 .Rapp.history
 
 # Session data files
-/*.RData
+#/*.RData
 
 # Example code in package build process
 *-Ex.R
@@ -37,6 +37,7 @@ rsconnect/
 .Rproj.user
 
 # raw data files
+/*.txt
 
 # random files
 /*.ini
@@ -46,5 +47,3 @@ rsconnect/
 
 # RStudio project files
 /*.Rproj
-
-# all shapefile related files
